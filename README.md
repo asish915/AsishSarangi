@@ -32,7 +32,7 @@ I'm a passionate student at **Silicon University, Bhubaneswar, Odisha**, constan
 A professional and interactive quiz application covering DSA, Java, C, SQL, and Frontend development topics. Built using HTML, CSS, and JavaScript, it features dynamic quizzes, real-time feedback, and a responsive UI.  
 *Technologies used:* HTML, CSS, JavaScript
 
-### 2. [Student Information Form – Full Stack App (Hosted on AWS)](https://github.com/asish915/user-info-form)
+### 2. [Student Information Form – Full Stack App (Hosted on AWS)](https://github.com/asish915/User-Information-Form)
 A full stack student information form application, designed and deployed on AWS servers for robust accessibility and scalability. Enables secure data collection and management for student records.  
 *Technologies used:* HTML, CSS, javascript, php MySQL, AWS EC2/S3, Load Balancer
 
