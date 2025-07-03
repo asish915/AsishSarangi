@@ -28,11 +28,11 @@ I'm a passionate student at **Silicon University, Bhubaneswar, Odisha**, constan
 
 ## 💼 Projects
 
-### 1. [SmartQuiz App](https://github.com/AsishSarangi/SmartQuiz-App)
+### 1. [SmartQuiz App](https://github.com/asish915/SmartQuiz-App)
 A professional and interactive quiz application covering DSA, Java, C, SQL, and Frontend development topics. Built using HTML, CSS, and JavaScript, it features dynamic quizzes, real-time feedback, and a responsive UI.  
 *Technologies used:* HTML, CSS, JavaScript
 
-### 2. [Student Information Form – Full Stack App (Hosted on AWS)](https://your-aws-hosted-link)
+### 2. [Student Information Form – Full Stack App (Hosted on AWS)](https://github.com/asish915/user-info-form)
 A full stack student information form application, designed and deployed on AWS servers for robust accessibility and scalability. Enables secure data collection and management for student records.  
 *Technologies used:* HTML, CSS, javascript, php MySQL, AWS EC2/S3, Load Balancer
 
@@ -48,7 +48,7 @@ A full stack student information form application, designed and deployed on AWS 
 
 ## 📫 Let's Connect
 
-- [GitHub](https://github.com/AsishSarangi)
+- [GitHub](https://github.com/asish915)
 - [LinkedIn](www.linkedin.com/in/asish-sarangi-8a33322a6) 
 
 ---
