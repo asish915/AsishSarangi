@@ -28,7 +28,7 @@ I'm a passionate student at **Silicon University, Bhubaneswar, Odisha**, constan
 
 ## 💼 Projects
 
-### 1. [SmartQuiz App](https://github.com/AsishSarangi/Smartquiz-app)
+### 1. [SmartQuiz App](https://github.com/AsishSarangi/SmartQuiz-App)
 A professional and interactive quiz application covering DSA, Java, C, SQL, and Frontend development topics. Built using HTML, CSS, and JavaScript, it features dynamic quizzes, real-time feedback, and a responsive UI.  
 *Technologies used:* HTML, CSS, JavaScript
 
