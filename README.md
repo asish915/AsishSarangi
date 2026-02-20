@@ -11,10 +11,8 @@ I'm a passionate student at **Silicon University, Bhubaneswar, Odisha**, constan
 
 ## 🚀 Skills & Tech Stack
 
-### 📊 Data Structures & Algorithms (DSA)
+### 📊 Programming & DSA
 ![DSA](https://img.shields.io/badge/DSA-Master-blue?style=for-the-badge)
-
-### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/cpp-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,7 +27,7 @@ I'm a passionate student at **Silicon University, Bhubaneswar, Odisha**, constan
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
-###🔧 DevOps , CI/CD Pipeline & Security tools
+### 🔧 DevOps , CI/CD Pipeline & Security tools
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -112,9 +110,9 @@ A full stack student information form application designed and deployed on AWS s
 
 ## 📫 Let's Connect
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [asish915](https://github.com/asish915)
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Asish Sarangi](https://www.linkedin.com/in/asish-sarangi-8a33322a6)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+![Gmail](https://img.shields.io/badge/gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white) 
 
 ---
 
