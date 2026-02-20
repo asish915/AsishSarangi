@@ -26,6 +26,22 @@ I'm a passionate student at **Silicon University, Bhubaneswar, Odisha**, constan
 
 ---
 
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asish915&show_icons=true&hide_border=true&theme=tokyonight)
+
+## Current Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=asish915&hide_border=true&theme=tokyonight)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asish915&layout=compact&hide_border=true&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asish915&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repositories" width="100%" alt="@asish915's GitHub Contribution Graph" />
+</p>
+
+---
+
+
 ## 💼 Projects
 
 ### 1. [SmartQuiz App](https://github.com/asish915/SmartQuiz-App)
