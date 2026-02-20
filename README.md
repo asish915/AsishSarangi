@@ -57,10 +57,6 @@ I'm a passionate student at **Silicon University, Bhubaneswar, Odisha**, constan
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=asish915&hide_border=true&theme=tokyonight)
 
-### 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asish915&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
-
 ### 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=asish915&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph)
@@ -112,7 +108,7 @@ A full stack student information form application designed and deployed on AWS s
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-![Gmail](https://img.shields.io/badge/gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white) 
+![Gmail](https://img.shields.io/badge/gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white,www.linkedin.com/in/asish-sarangi-8a33322a6) 
 
 ---
 
